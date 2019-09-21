@@ -4,7 +4,7 @@ static void main(){
         int abc := 3;
     }
 
-    if(true){
-        boolean abc := true ;
+    if (1 == 2){
+        boolean hola := true ;
     }
 }
